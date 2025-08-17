@@ -1,0 +1,20 @@
+{
+  "name": "discord-account-checker",
+  "version": "1.0.0",
+  "description": "Discord account checker using discord.js-selfbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.0.1",
+    "axios": "^1.6.0",
+    "readline-sync": "^1.4.10",
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": ["discord", "selfbot", "checker", "account"],
+  "author": "Discord Account Checker",
+  "license": "MIT"
+}
